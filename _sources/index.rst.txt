@@ -1,0 +1,25 @@
+.. NewApp documentation master file, created by
+   sphinx-quickstart on Thu Jan 25 10:28:26 2018.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Описание работы приложения на Django (Python)
+==============================================
+
+.. toctree::
+   :maxdepth: 2
+
+   intro
+   part-one
+   part-two
+   part-three
+
+   :caption: Contents:
+
+
+
+
+Воспользуйтесь поиском
+======================
+
+* :ref:`search`
