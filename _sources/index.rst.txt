@@ -14,10 +14,6 @@
    part-two
    part-three
 
-   :caption: Contents:
-
-
-
 
 Воспользуйтесь поиском
 ======================
